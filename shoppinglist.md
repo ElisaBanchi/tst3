@@ -1,4 +1,6 @@
 # my shopping list
 - apples
 - bananas
-- bread
+- salad
+- broccoli
+- lentils
