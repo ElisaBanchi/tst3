@@ -7,4 +7,4 @@
 - more bananas for Cosmo
 - ciao
 - bread
-- provaprova
+- prova
