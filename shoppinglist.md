@@ -4,3 +4,5 @@
 - salad
 - broccoli
 - lentils
+- more bananas for Cosmo
+- ciao
